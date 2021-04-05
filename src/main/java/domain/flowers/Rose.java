@@ -1,4 +1,4 @@
-package domain;
+package domain.flowers;
 
 import domain.enums.LeavesSize;
 

@@ -1,4 +1,4 @@
-package domain;
+package domain.flowers;
 import domain.enums.LeavesSize;
 import domain.interfaces.FlowersService;
 import java.util.Objects;

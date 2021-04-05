@@ -1,9 +1,9 @@
 package app;
 
-import domain.Bouquet;
-import domain.Daisy;
-import domain.Rose;
-import domain.Sunflower;
+import domain.bouquet.Bouquet;
+import domain.flowers.Daisy;
+import domain.flowers.Rose;
+import domain.flowers.Sunflower;
 import domain.enums.LeavesSize;
 
 public class Application {

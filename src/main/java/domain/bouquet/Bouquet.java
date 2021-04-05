@@ -1,5 +1,5 @@
-package domain;
-import domain.interfaces.FlowersService;
+package domain.bouquet;
+import domain.flowers.Flowers;
 
 import java.util.*;
 import java.util.concurrent.atomic.AtomicInteger;
